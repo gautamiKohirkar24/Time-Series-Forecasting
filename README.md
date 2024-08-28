@@ -2,9 +2,9 @@
 
 # What is Time Series Forecasting?
 
-#Time series forecasting involves predicting future values of a variable based on its historical data. This technique is widely used in various domains, including finance, economics, weather forecasting, and sales analysis.
+Time series forecasting involves predicting future values of a variable based on its historical data. This technique is widely used in various domains, including finance, economics, weather forecasting, and sales analysis.
 
-#Key Components of Time Series Forecasting:
+Key Components of Time Series Forecasting:
 
 * Time Series Data: This is the core data type used in time series forecasting. It consists of a sequence of observations collected at regular intervals (e.g., daily, weekly, monthly).
 * Trend: This is the long-term direction of the time series (upward, downward, or stationary).
